@@ -1,4 +1,4 @@
-export {SortableContext} from './components';
+export {SortableContext, Context as PublicContext} from './components';
 export type {SortableContextProps} from './components';
 export {
   useSortable,
