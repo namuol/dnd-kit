@@ -90,7 +90,7 @@ export type {
   Over,
 } from './store';
 
-export {PublicContext} from './store';
+export {InternalContext, PublicContext} from './store';
 
 export type {
   ClientRect,
