@@ -90,6 +90,8 @@ export type {
   Over,
 } from './store';
 
+export {PublicContext} from './store';
+
 export type {
   ClientRect,
   DistanceMeasurement,
